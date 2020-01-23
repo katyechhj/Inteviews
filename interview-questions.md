@@ -55,3 +55,6 @@
 - Which method in a React Component should you override to stop the component from updating?
 - Which method in a React Component is called after the component is rendered for the first time?
 - What happens when you call setState() inside render() method?
+
+
+ANSWER: TEST 
